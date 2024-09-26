@@ -1,4 +1,4 @@
-# memory_usage_analysis_guideline
+# How to analyse the memory related issue if you are working on large iOS Codebase 
 
 # iOS Memory Management Techniques
 
