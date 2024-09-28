@@ -3,7 +3,7 @@
 # iOS Memory Management Techniques
 
 This repository contains a collection of effective techniques for identifying and resolving memory-related issues in large iOS codebases. As an iOS developer, you can use these strategies to optimize your app's performance and prevent crashes due to memory mismanagement.
-
+  
 ## Table of Contents
 1. [Instruments: Leaks and Allocations](#1-instruments-leaks-and-allocations)
 2. [Xcode Debug Memory Graph](#2-xcode-debug-memory-graph)
